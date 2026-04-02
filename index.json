@@ -10,7 +10,7 @@
       "description": "Streams from sflix.to",
       "iconURL": "https://sflix.to/favicon.ico",
       "baseURL": "https://sflix.to",
-      "scriptURL": "https://raw.githubusercontent.com/Psychezzz/streamr-sources/main/sources/sflix.js",
+      "scriptURL": "https://raw.githubusercontent.com/Psychezzz/psychebox/main/sources/sflix.js",
       "embedFallbackURL": "https://sflix.to/movie/{id}"
     },
     {
@@ -20,7 +20,7 @@
       "description": "Streams from vidsrc.me",
       "iconURL": "https://vidsrc.me/favicon.ico",
       "baseURL": "https://vidsrc.me",
-      "scriptURL": "https://raw.githubusercontent.com/Psychezzz/streamr-sources/main/sources/vidsrc.js",
+      "scriptURL": "https://raw.githubusercontent.com/Psychezzz/psychebox/main/sources/vidsrc.js",
       "embedFallbackURL": "https://vidsrc.me/embed/movie?tmdb={id}"
     }
   ]
