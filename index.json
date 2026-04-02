@@ -7,21 +7,11 @@
       "id": "sflix",
       "name": "Sflix",
       "version": "1.0.0",
-      "description": "Streams from sflix.to",
-      "iconURL": "https://sflix.to/favicon.ico",
-      "baseURL": "https://sflix.to",
+      "description": "Streams from sflix.ps",
+      "iconURL": "https://sflix.ps/favicon.ico",
+      "baseURL": "https://sflix.ps",
       "scriptURL": "https://raw.githubusercontent.com/Psychezzz/psychebox/main/sources/sflix.js",
-      "embedFallbackURL": "https://sflix.to/movie/{id}"
-    },
-    {
-      "id": "vidsrc",
-      "name": "Vidsrc",
-      "version": "1.0.0",
-      "description": "Streams from vidsrc.me",
-      "iconURL": "https://vidsrc.me/favicon.ico",
-      "baseURL": "https://vidsrc.me",
-      "scriptURL": "https://raw.githubusercontent.com/Psychezzz/psychebox/main/sources/vidsrc.js",
-      "embedFallbackURL": "https://vidsrc.me/embed/movie?tmdb={id}"
+      "embedFallbackURL": "https://sflix.ps/movie/{id}"
     }
   ]
 }
