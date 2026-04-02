@@ -93,4 +93,4 @@ Click **Commit changes**.
 
 Your repo URL will be:
 ```
-https://raw.githubusercontent.com/Psychezzz/streamr-sources/main/index.json
+https://raw.githubusercontent.com/Psychezzz/psychebox/main/sources/sflix.js
