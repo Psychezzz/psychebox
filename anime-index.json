@@ -1,0 +1,45 @@
+{
+  "repoName": "Psychezzz Anime Sources",
+  "repoID": "psychezzz-anime-repo",
+  "repoType": "anime",
+  "description": "Anime streaming servers — maintained by Psychezzz",
+  "version": "1.0.0",
+  "servers": [
+    {
+      "id": "animekai",
+      "name": "AnimeKai",
+      "description": "Primary anime server. Sub & Dub.",
+      "version": "1.0.0",
+      "iconEmoji": "🎌",
+      "embedURL": "https://animekai.to/watch/{id}/ep-{episode}",
+      "tvEmbedURL": "https://animekai.to/watch/{id}/ep-{episode}",
+      "episodeEmbedURL": "https://animekai.to/watch/{id}/ep-{episode}",
+      "scriptURL": "",
+      "status": "working"
+    },
+    {
+      "id": "aniwatch",
+      "name": "AniWatch",
+      "description": "Alternative anime server.",
+      "version": "1.0.0",
+      "iconEmoji": "📺",
+      "embedURL": "https://aniwatchtv.to/watch/{id}?ep={episode}",
+      "tvEmbedURL": "https://aniwatchtv.to/watch/{id}?ep={episode}",
+      "episodeEmbedURL": "https://aniwatchtv.to/watch/{id}?ep={episode}",
+      "scriptURL": "",
+      "status": "working"
+    },
+    {
+      "id": "animepahe",
+      "name": "AnimePahe",
+      "description": "Compressed, low data usage.",
+      "version": "1.0.0",
+      "iconEmoji": "🌸",
+      "embedURL": "https://animepahe.com/anime/{id}",
+      "tvEmbedURL": "https://animepahe.com/anime/{id}",
+      "episodeEmbedURL": "https://animepahe.com/anime/{id}/watch?episode={episode}",
+      "scriptURL": "",
+      "status": "working"
+    }
+  ]
+}
