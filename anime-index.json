@@ -3,13 +3,13 @@
   "repoID": "psychezzz-anime-repo",
   "repoType": "anime",
   "description": "Anime streaming servers — maintained by Psychezzz",
-  "version": "2.0.0",
+  "version": "3.0.0",
   "servers": [
     {
       "id": "2embed_anime",
       "name": "2Embed",
-      "description": "Clean player. Uses MAL ID. Most reliable.",
-      "version": "2.0.0",
+      "description": "Most reliable. Uses MAL ID.",
+      "version": "3.0.0",
       "iconEmoji": "🎬",
       "embedURL": "https://www.2embed.cc/embedanime/{malId}/1",
       "tvEmbedURL": "https://www.2embed.cc/embedanime/{malId}/1",
@@ -20,8 +20,8 @@
     {
       "id": "animeowl",
       "name": "AnimeOwl",
-      "description": "Alternative player. Uses MAL ID.",
-      "version": "2.0.0",
+      "description": "Clean player. Uses MAL ID.",
+      "version": "3.0.0",
       "iconEmoji": "🦉",
       "embedURL": "https://animeowl.me/anime/{malId}/1",
       "tvEmbedURL": "https://animeowl.me/anime/{malId}/1",
@@ -33,11 +33,23 @@
       "id": "yugen_anime",
       "name": "YugenAnime",
       "description": "High quality. Uses MAL ID.",
-      "version": "2.0.0",
+      "version": "3.0.0",
       "iconEmoji": "✨",
       "embedURL": "https://yugenanime.tv/watch/{malId}/1/",
       "tvEmbedURL": "https://yugenanime.tv/watch/{malId}/1/",
       "episodeEmbedURL": "https://yugenanime.tv/watch/{malId}/{episode}/",
+      "scriptURL": "",
+      "status": "working"
+    },
+    {
+      "id": "aniembed",
+      "name": "AniEmbed",
+      "description": "Fast embed. Uses MAL ID.",
+      "version": "3.0.0",
+      "iconEmoji": "⚡",
+      "embedURL": "https://aniembed.me/embed?mal={malId}&ep=1",
+      "tvEmbedURL": "https://aniembed.me/embed?mal={malId}&ep=1",
+      "episodeEmbedURL": "https://aniembed.me/embed?mal={malId}&ep={episode}",
       "scriptURL": "",
       "status": "working"
     }
