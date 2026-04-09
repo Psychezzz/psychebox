@@ -46,9 +46,9 @@
       "description": "Multiple sources in one player.",
       "version": "1.3.0",
       "iconEmoji": "🌐",
-      "embedURL": "https://multiembed.mov/?video_id={imdb}&tmdb=0",
-      "tvEmbedURL": "https://multiembed.mov/?video_id={imdb}&tmdb=0&s=1&e=1",
-      "episodeEmbedURL": "https://multiembed.mov/?video_id={imdb}&tmdb=0&s={season}&e={episode}",
+      "embedURL": "https://multiembed.mov/?video_id={imdb}&tmdb=0&ads=0",
+      "tvEmbedURL": "https://multiembed.mov/?video_id={imdb}&tmdb=0&s=1&e=1&ads=0",
+      "episodeEmbedURL": "https://multiembed.mov/?video_id={imdb}&tmdb=0&s={season}&e={episode}&ads=0",
       "scriptURL": "",
       "status": "working"
     }
